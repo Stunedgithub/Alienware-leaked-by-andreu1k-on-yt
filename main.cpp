@@ -192,7 +192,7 @@ HRESULT DirectXInit(HWND hWnd) {
 
 void SetupWindow()
 {
-	GameWnd = FindWindowA(NULL, TEXT("Fortnite  "));
+	GameWnd = FindWindowA(NULL, TEXT("Cheetos.Ware | Fortnite"));
 
 	WNDCLASSEXA wcex = {
 			sizeof(WNDCLASSEXA),
